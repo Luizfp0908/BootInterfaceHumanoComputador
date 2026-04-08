@@ -111,7 +111,7 @@ body {
     display: flex;
     align-items: center;
     gap: 12px;
-    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); /* Gradiente moderno */
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); 
 }
 
 .avatar {
