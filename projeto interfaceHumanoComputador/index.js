@@ -1,4 +1,3 @@
-// 1. Seleção Única de Elementos
 const chatCircle = document.getElementById('chat-circle');
 const chatBox = document.getElementById('chat-box');
 const closeChat = document.getElementById('close-chat');
@@ -8,14 +7,13 @@ const sendBtn = document.getElementById('send-btn');
 
 
 const knowledgeBase = {
-    // Social
+    
     "olá": "Olá! Eu sou a Lumi! ✨ Como posso iluminar seu dia hoje?",
     "oi": "Oi, oi! Tudo bem por aí? 😊",
     "como vai": "Estou radiante! ⚡ Pronta para te ajudar com o que precisar.",
     "obrigado": "Imagina! Fico feliz em ajudar. 💜",
     "obrigada": "Disponha! Sempre que precisar, é só chamar. 👋",
-    "quem é você": "Eu sou a Lumi, sua assistente virtual cheia de energia! 🔋",
-    // Vendas
+    "quem é você": "Eu sou a Lumi, sua assistente virtual cheia de energia! 🔋",
     "valor": "O investimento é de apenas R$ 497,00 ou 12x de R$ 49,70. Um brilho de oferta, né? ✨",
     "preço": "O curso está com 30% de desconto hoje! Sai por R$ 497,00. 💰",
     "garantia": "Você tem 7 dias de garantia total. Se não gostar, devolvemos seu dinheiro sem burocracia! ✅",
